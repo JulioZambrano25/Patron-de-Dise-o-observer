@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\obverver\bin\Debug\net7.0\obverver.exe
+C:\Users\pc\Desktop\obverver\bin\Debug\net7.0\obverver.deps.json
+C:\Users\pc\Desktop\obverver\bin\Debug\net7.0\obverver.runtimeconfig.json
+C:\Users\pc\Desktop\obverver\bin\Debug\net7.0\obverver.dll
+C:\Users\pc\Desktop\obverver\bin\Debug\net7.0\obverver.pdb
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.AssemblyInfo.cs
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.dll
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\refint\obverver.dll
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.pdb
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\obverver.genruntimeconfig.cache
+C:\Users\pc\Desktop\obverver\obj\Debug\net7.0\ref\obverver.dll
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\bin\Debug\net7.0\obverver.exe
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\bin\Debug\net7.0\obverver.deps.json
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\bin\Debug\net7.0\obverver.runtimeconfig.json
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\bin\Debug\net7.0\obverver.dll
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\bin\Debug\net7.0\obverver.pdb
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.AssemblyInfo.cs
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.dll
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\refint\obverver.dll
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.pdb
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\obverver.genruntimeconfig.cache
+C:\Users\pc\Desktop\EXPO JULIO ZAMBRANO\obverver\obj\Debug\net7.0\ref\obverver.dll
